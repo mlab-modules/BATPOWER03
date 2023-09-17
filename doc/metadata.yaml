@@ -1,0 +1,16 @@
+description: Switched power unit with adjustable regulator.
+github_branch: BATPOWER03A
+github_description: Switched power unit with adjustable regulator.
+github_repo: BATPOWER03
+github_url: https://github.com/mlab-modules/BATPOWER03
+homepage: false
+images:
+- doc/img/BATPOWER03A_small.jpg
+- doc/img/BATPOWER03A_big.jpg
+- doc/img/BATPOWER03A.jpg
+- doc/img/BATPOWER03A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: BATPOWER03
+updated: '2023-09-17T11:43:37.477737+00:00'
